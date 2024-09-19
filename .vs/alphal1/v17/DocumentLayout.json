@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri09\\source\\repos\\alphal1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\admin\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\admin\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\admin\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\admin\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\admin\\views\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\admin\\views\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\admin\\views\\stories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\admin\\views\\stories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\admin\\controllers\\storygenrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\admin\\controllers\\storygenrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\areas\\admin\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\areas\\admin\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\migrations\\20240917092740_newalphal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\migrations\\20240917092740_newalphal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\storygenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\storygenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\alphal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\alphal1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\storygenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\storygenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\istorygenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\istorygenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\istoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\istoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|c:\\users\\tri09\\source\\repos\\alphal1\\alphal1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C50E2CBD-EDCA-4FF3-BA91-8787A5C1360D}|alphal1\\alphal1.csproj|solutionrelative:alphal1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoryGenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\StoryGenresController.cs",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Admin\\Controllers\\StoryGenresController.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\StoryGenresController.cs",
+              "RelativeToolTip": "alphal1\\Areas\\Admin\\Controllers\\StoryGenresController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:38:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Admin\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "alphal1\\Areas\\Admin\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:37:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "alphal1.csproj",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\alphal1.csproj",
+              "RelativeDocumentMoniker": "alphal1\\alphal1.csproj",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\alphal1.csproj",
+              "RelativeToolTip": "alphal1\\alphal1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T09:26:03.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Program.cs",
+              "RelativeDocumentMoniker": "alphal1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Program.cs",
+              "RelativeToolTip": "alphal1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:30:18.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Views\\Stories\\Create.cshtml",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Admin\\Views\\Stories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Views\\Stories\\Create.cshtml",
+              "RelativeToolTip": "alphal1\\Areas\\Admin\\Views\\Stories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T09:32:43.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Views\\Genres\\Create.cshtml",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Admin\\Views\\Genres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Views\\Genres\\Create.cshtml",
+              "RelativeToolTip": "alphal1\\Areas\\Admin\\Views\\Genres\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T09:48:03.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "alphal1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAIsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T09:56:57.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Admin\\Controllers\\StoriesController.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "alphal1\\Areas\\Admin\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:30:50.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240917092740_newalphal1.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Migrations\\20240917092740_newalphal1.cs",
+              "RelativeDocumentMoniker": "alphal1\\Migrations\\20240917092740_newalphal1.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Migrations\\20240917092740_newalphal1.cs",
+              "RelativeToolTip": "alphal1\\Migrations\\20240917092740_newalphal1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:27:40.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "alphal1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "alphal1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:50:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "alphal1\\Areas\\Admin\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Areas\\Admin\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "alphal1\\Areas\\Admin\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:40:01.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\CommentRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\CommentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:16:28.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Comment.cs",
+              "RelativeToolTip": "alphal1\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:59:33.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Story.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Story.cs",
+              "RelativeToolTip": "alphal1\\Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:54:08.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "alphal1\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:59:57.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoryGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\StoryGenre.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\StoryGenre.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\StoryGenre.cs",
+              "RelativeToolTip": "alphal1\\Models\\StoryGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:58:59.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\StoryRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\StoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\StoryRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\StoryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:11:10.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoryGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\StoryGenreRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\StoryGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\StoryGenreRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\StoryGenreRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:14:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\GenreRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:13:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IGenreRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:13:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\EFProductRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\EFProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:43:39.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\EFCategoryRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:50:48.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Category.cs",
+              "RelativeToolTip": "alphal1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:01:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "alphal1\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:56:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ICommentRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:16:16.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IStoryGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IStoryGenreRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\IStoryGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IStoryGenreRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\IStoryGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:14:22.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IStoryRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\IStoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IStoryRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\IStoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:10:44.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Repository.cs",
+              "RelativeToolTip": "alphal1\\Models\\Repository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:09:45.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:09:24.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Status.cs",
+              "RelativeToolTip": "alphal1\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:59:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "alphal1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:01:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ProductImage.cs",
+              "RelativeToolTip": "alphal1\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:01:10.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\ICategoryRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:56:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\IProductRepository.cs",
+              "RelativeToolTip": "alphal1\\Models\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:53:26.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Genre.cs",
+              "RelativeToolTip": "alphal1\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:58:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\Product.cs",
+              "RelativeToolTip": "alphal1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:46:50.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "alphal1\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Models\\SD.cs",
+              "RelativeToolTip": "alphal1\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:00:54.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "alphal1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri09\\source\\repos\\alphal1\\alphal1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "alphal1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T07:16:04.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

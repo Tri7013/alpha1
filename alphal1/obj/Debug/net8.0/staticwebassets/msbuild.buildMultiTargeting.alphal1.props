@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\alphal1.props" />
+</Project>
